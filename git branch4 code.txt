@@ -1,0 +1,18 @@
+<html>
+<body>
+<h2>largest of 3 numbers<h2>
+<script> 
+var A , B , C
+A= 10, B=8, C=5;
+if( A>=B && A>=C){
+document.write("A is largest");
+}
+if(B>=A && B>=C){
+document.write("B is largest");
+}
+if(C>=A && C>=B){
+document.write("C is largest");
+}
+</script>
+<body>
+</html> 
